@@ -1,0 +1,17 @@
+/home/ljosefs/Desktop/EffDet/efficientdet/venv/lib/python3.6/site-packages/torch/serialization.py:593: SourceChangeWarning: source code of class 'src.model.EfficientDet' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/ljosefs/Desktop/EffDet/efficientdet/venv/lib/python3.6/site-packages/torch/serialization.py:593: SourceChangeWarning: source code of class 'torch.nn.modules.container.Sequential' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/ljosefs/Desktop/EffDet/efficientdet/venv/lib/python3.6/site-packages/torch/serialization.py:593: SourceChangeWarning: source code of class 'src.utils.Anchors' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/ljosefs/Desktop/EffDet/efficientdet/venv/lib/python3.6/site-packages/torch/serialization.py:593: SourceChangeWarning: source code of class 'src.utils.BBoxTransform' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/ljosefs/Desktop/EffDet/efficientdet/venv/lib/python3.6/site-packages/torch/serialization.py:593: SourceChangeWarning: source code of class 'src.loss.FocalLoss' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/ljosefs/Desktop/EffDet/efficientdet/venv/lib/python3.6/site-packages/torch/serialization.py:593: SourceChangeWarning: source code of class 'torch.nn.modules.container.ModuleList' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+Torch version:  1.4.0
+
+Perform trace test
+Loaded pretrained weights for efficientnet-b0
+Successfully loaded dataparallel model:  False
